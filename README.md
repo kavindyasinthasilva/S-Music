@@ -1,7 +1,9 @@
 # S-Music 💻🤘🏻
 ### sky silva - NSBM 🪂👨🏾‍🎓👨🏽‍💻🤘🏻
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/w.png)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/dUntitled-1.png)
+
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/20200725_232612.gif)
 
 My Second plystore app.![Kavinduyasintha.tech](http://www.kavinduyasintha.tech/).
 This repo for android developers and you can add more vsc .Thank you. contribute  (fork)
