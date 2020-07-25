@@ -7,7 +7,10 @@
 
 My Second plystore app.![Kavinduyasintha.tech](http://www.kavinduyasintha.tech/).
 This repo for android developers and you can add more vsc .Thank you. contribute  (fork)
+
+
 ---
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ekjsjkd_mockup.jpg)
 
 ## Table of Contents (Optional)
 
