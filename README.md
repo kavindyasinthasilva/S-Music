@@ -1,4 +1,4 @@
-# S-Music ✔️✨ <a href="https://kavinduyasintha.tech/"></a><img src="https://media.giphy.com/media/baKT031GFGZ5m/giphy.gif" width="50"> 
+# S-Music ✔️✨ <a href="https://kavinduyasintha.tech/"></a><img src="https://media.giphy.com/media/5UB9qOlnPwIOqFBGXD/giphy.gif" width="50"> 
 </em>
 
 ### sky silva - NSBM 🪂👨🏾‍🎓👨🏽‍💻🤘🏻
