@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/albumArtImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/app_label"
+        android:scaleType="centerCrop"
+        android:src="@drawable/audio_drawable" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/text_over_icon_gradient" />
+
+    <RelativeLayout
+        android:id="@+id/details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/relpo"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp">
+
+
+        <ImageView
+            android:id="@+id/prevImageView"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerInParent="true"
+            android:contentDescription="@string/_0"
+            android:padding="16dp"
+            android:rotation="180"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/app_next"
+            android:tint="@color/white" />
+
+        <TextView
+            android:id="@+id/artistTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/prevImageView"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@string/artist"
+            android:textColor="@color/textColorSubTitle"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/albumTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/artistTextView"
+            android:layout_toEndOf="@+id/prevImageView"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@string/album"
+            android:textColor="@color/textColorSubTitle"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/albumTextView"
+            android:layout_toEndOf="@+id/prevImageView"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="@string/app_label"
+            android:textColor="@color/textColorTitle"
+            android:textSize="18sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relpo"
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/details"
+        android:layout_alignBottom="@+id/details"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp">
+
+        <ImageView
+            android:id="@+id/playImageView"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="0dp"
+            android:layout_toStartOf="@+id/nextImageView"
+            android:background="@drawable/thumb"
+            android:padding="14dp"
+            android:src="@drawable/app_play"
+            android:tint="@android:color/white" />
+
+        <ImageView
+            android:id="@+id/nextImageView"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="8dp"
+            android:contentDescription="@string/_0"
+            android:padding="16dp"
+            android:src="@drawable/app_next"
+            android:tint="@color/white" />
+    </RelativeLayout>
+
+</RelativeLayout>

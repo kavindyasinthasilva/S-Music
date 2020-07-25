@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">#FF6347</item>
+        <item name="colorPrimaryDark">#FF6347</item>
+        <item name="colorAccent">#FF6347</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:navigationBarColor">#FF6347</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:buttonStyle">?android:borderlessButtonStyle</item>
+    </style>
+
+    <!-- HomeActivity -->
+    <style name="AppThemeToolbar" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/MyHomeActionBar</item>
+        <item name="actionBarStyle">@style/MyHomeActionBar</item>
+        <item name="dialogTheme">@style/Theme.AppCompat.Dialog</item>
+        <item name="android:dialogTheme">@style/Theme.AppCompat.Dialog</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- PlayActivity -->
+    <style name="AppThemeToolbar.Overlay" parent="AppThemeToolbar">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="colorPrimaryDark">@color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+
+
+    <!-- TimerActivity & IntentPlayActivity -->
+    <style name="DialogTheme" parent="Theme.AppCompat.Dialog">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- SettingsActivity -->
+    <style name="ThemeActionBar" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/MyHomeActionBar</item>
+        <item name="actionBarStyle">@style/MyHomeActionBar</item>
+    </style>
+
+    <!-- GlobalActivity -->
+    <style name="ThemeToolBarTranslucent" parent="AppThemeToolbar">
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <!--
+        *
+        -->
+    <style name="MyHomeActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/primaryColor</item>
+        <item name="background">@color/primaryColor</item>
+        <item name="android:displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+        <item name="android:logo">@null</item>
+    </style>
+
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

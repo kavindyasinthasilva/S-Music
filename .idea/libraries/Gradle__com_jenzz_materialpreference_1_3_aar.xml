@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jenzz:materialpreference:1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bc832bf483a3ea1569b8fb74f3f16da/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bc832bf483a3ea1569b8fb74f3f16da/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jenzz/materialpreference/1.3/58686cf4f8a5f253828a462cb3d10a01e5dc2291/materialpreference-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

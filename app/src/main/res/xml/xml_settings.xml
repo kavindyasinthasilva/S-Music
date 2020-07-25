@@ -1,0 +1,52 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.jenzz.materialpreference.PreferenceCategory
+        android:title="General">
+
+        <com.jenzz.materialpreference.Preference
+            android:id="@+id/versionPref"
+            android:key="versionPref"
+            android:summary="@string/app_version"
+            android:title="App Version" />
+
+        <com.jenzz.materialpreference.Preference
+            android:id="@+id/about"
+            android:key="versionPref"
+            android:summary="SkySoFTlk Development by Kavindu yasintha silva"
+            android:title="about" />
+
+        <com.jenzz.materialpreference.SwitchPreference
+            android:id="@+id/ExcludeCheckBox"
+            android:key="excludeShortSounds"
+            android:summary="Exclude music files with duration less than one minute"
+            android:title="Exclude Short Sounds" />
+
+        <com.jenzz.materialpreference.SwitchPreference
+            android:id="@+id/ExcludeWhatsAppCheckBox"
+            android:key="excludeWhatsAppSounds"
+            android:summary="Exclude WhatsApp folder music files"
+            android:title="Exclude WhatsApp Sounds" />
+
+    </com.jenzz.materialpreference.PreferenceCategory>
+
+    <com.jenzz.materialpreference.PreferenceCategory android:title="Equalizer">
+        <com.jenzz.materialpreference.CheckBoxPreference
+            android:id="@+id/equalizer"
+            android:key="turnEqualizer"
+            android:summary="Enable equalizer for songs"
+            android:title="Equalizer" />
+
+    </com.jenzz.materialpreference.PreferenceCategory>
+
+    <com.jenzz.materialpreference.PreferenceCategory android:title="Playback">
+        <com.jenzz.materialpreference.CheckBoxPreference
+            android:id="@+id/persistentNotificationPref"
+            android:key="persistentNotificationPref"
+            android:summary="Always keep music player active in notifications"
+            android:title="Persistent Playback Notification" />
+
+    </com.jenzz.materialpreference.PreferenceCategory>
+
+</PreferenceScreen>

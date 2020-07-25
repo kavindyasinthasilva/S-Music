@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.xgc1986.android:parallaxpagertransformer:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/079b3beb81f557bd2ea4c7911f381bf5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/079b3beb81f557bd2ea4c7911f381bf5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xgc1986.android/parallaxpagertransformer/1.0.3/ce76f0c467596dfc861b7a91f0078a6ad61c50db/parallaxpagertransformer-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/android-noad-music-player.iml" filepath="$PROJECT_DIR$/.idea/android-noad-music-player.iml" group="android-noad-music-player" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android-noad-music-player/app" />
+    </modules>
+  </component>
+</project>

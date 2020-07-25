@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505132901138",
+    "firebase_url": "https://skyplayer-67ae3.firebaseio.com",
+    "project_id": "skyplayer-67ae3",
+    "storage_bucket": "skyplayer-67ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505132901138:android:affbed45936658f6f289cb",
+        "android_client_info": {
+          "package_name": "com.droidheat.musicplayerplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505132901138-tnoqi801h21i49tifpheg3qk66c8rv2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droidheat.musicplayerplus",
+            "certificate_hash": "82629c1d1a8135f778bc853375483966a9de4f80"
+          }
+        },
+        {
+          "client_id": "505132901138-hicu462010eg78l0hagvv0qd62hodl6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVMdnxDQoVLQexJCoGdvHKFceZqGGRIuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505132901138-hicu462010eg78l0hagvv0qd62hodl6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
