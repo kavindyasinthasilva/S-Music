@@ -1,17 +1,17 @@
-# S-Music
+# S-Music ✔️✨
 
 ### sky silva - NSBM 🪂👨🏾‍🎓👨🏽‍💻🤘🏻
 
 ![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/dUntitled-1.png)
 
 This is my second application publish on play store.![Kavinduyasintha.tech](http://www.kavinduyasintha.tech/).
-This repo for android developers and you can add more vsc .Thank you. contribute  (fork)
+This repo for android developers and you can add more vsc .Thank you. contribute  (fork)✨
 ---
 ![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/20200725_232612.gif)
 
 ![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/sjh.jpg)
 
-## Table of Contents (Optional)
+## Table of Contents (Optional)✨
 
 > If your `README` has a lot of info, section headers might be nice.
 
