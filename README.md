@@ -1,11 +1,16 @@
 # S-Music 💻🤘🏻
 ### sky silva - NSBM 🪂👨🏾‍🎓👨🏽‍💻🤘🏻
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/w.png)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/dUntitled-1.png)
+
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/20200725_232612.gif)
 
 My Second plystore app.![Kavinduyasintha.tech](http://www.kavinduyasintha.tech/).
 This repo for android developers and you can add more vsc .Thank you. contribute  (fork)
+
+
 ---
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ekjsjkd_mockup.jpg)
 
 ## Table of Contents (Optional)
 
@@ -31,7 +36,7 @@ This repo for android developers and you can add more vsc .Thank you. contribute
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/kavindyasinthasilva/GravitySl.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/kavindyasinthasilva/S-Music.git`
 
 ### Step 2
 
@@ -39,18 +44,20 @@ This repo for android developers and you can add more vsc .Thank you. contribute
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/kavindyasinthasilva/GravitySl" target="_blank">`Pull request`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/kavindyasinthasilva/S-Music.git" target="_blank">`Pull request`</a>.
 
 ---
 
 
 # Screenshots
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/sky4.jpg)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ss/Screenshot_20200630-194123_Sky%20Player.jpg)
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/sky1.jpg)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ss/Screenshot_20200630-194144_Sky%20Player.jpg)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ss/Screenshot_20200630-194159_Sky%20Player.jpg)
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/coc.jpg)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ss/Screenshot_20200630-194208_Sky%20Player.jpg)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ssky.jpg)
 
 ## FAQ
 
@@ -79,3 +86,6 @@ Reach out to me at one of the following places!
 
 - **[MIT license]()**
 - Copyright 2020 © <a href="http://kavinduyasintha.tech" target="_blank">kavinduyasintha</a>.
+
+
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/google-play-badge.png)
