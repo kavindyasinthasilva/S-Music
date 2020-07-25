@@ -48,10 +48,12 @@ This repo for android developers and you can add more vsc .Thank you. contribute
 
 # Screenshots
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/sky4.jpg)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ss/Screenshot_20200630-194123_Sky%20Player.jpg)
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/sky1.jpg)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ss/Screenshot_20200630-194144_Sky%20Player.jpg)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ss/Screenshot_20200630-194159_Sky%20Player.jpg)
 
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ss/Screenshot_20200630-194208_Sky%20Player.jpg)
 ![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ssky.jpg)
 
 ## FAQ
