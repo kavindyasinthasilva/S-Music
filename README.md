@@ -50,7 +50,7 @@ This repo for android developers and you can add more vsc .Thank you. contribute
 
 ![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/sky1.jpg)
 
-![Image](https://github.com/kavindyasinthasilva/GravitySl/blob/master/Images/coc.jpg)
+![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/ssky.jpg)
 
 ## FAQ
 
