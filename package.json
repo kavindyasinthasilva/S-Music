@@ -1,0 +1,26 @@
+
+
+
+  {
+  	"publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+    "name": "sky",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kavindyasinthasilva/S-Music.git"
+    },
+    "keywords": [],
+    "author": "Kavindu yasintha silva",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/kavindyasinthasilva/S-Music.git"
+    },
+    "homepage": "https://github.com/kavindyasinthasilva/S-Music.git"
+  }
