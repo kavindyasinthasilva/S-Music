@@ -86,7 +86,7 @@ Reach out to me at one of the following places!
 - **[MIT license]()**
 - Copyright 2020 © <a href="http://kavinduyasintha.tech" target="_blank">kavinduyasintha</a>.
 
-
+Thank you
 
 
 ![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/google-play-badge.png)
