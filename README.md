@@ -93,6 +93,6 @@ Thank you
 
 ![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/google-play-badge.png)
 
-sky
+skySILVA
 
 
