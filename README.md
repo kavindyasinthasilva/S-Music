@@ -3,7 +3,7 @@
 
 </em>
 
-### sky silva - SkySoFTlk 🪂👨🏾‍🎓👨🏽‍💻🤘🏻 (kavindu yasintha silva  )  CEO/Owner - sk
+### sky silva - SkySoFTlk 🪂👨🏾‍🎓👨🏽‍💻🤘🏻 (kavindu yasintha silva  )  CEO/Owner
 
 ![Image](https://github.com/kavindyasinthasilva/S-Music/blob/master/ss/dUntitled-1.png)
 
